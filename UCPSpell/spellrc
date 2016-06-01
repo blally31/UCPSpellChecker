@@ -1,0 +1,4 @@
+maxcorrection = 1 
+autocorrect = no
+dictionary = thedictionary.txt
+
